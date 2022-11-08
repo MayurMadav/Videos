@@ -19,9 +19,6 @@ https://user-images.githubusercontent.com/108929368/181214952-3fe8bf87-ebde-4504
 
 /// Unable to process
 
-<img width="742" alt="image" src="https://user-images.githubusercontent.com/108929368/182294338-bbbe62b4-0446-47a4-9730-e1be47648d34.png">
-
-
 
 https://user-images.githubusercontent.com/108929368/181215065-63df144f-c610-4e4e-9149-1610cd588f1b.mp4
 
@@ -29,10 +26,15 @@ https://user-images.githubusercontent.com/108929368/181215065-63df144f-c610-4e4e
 //Insufficient Credits
 
 
-
 https://user-images.githubusercontent.com/108929368/181422552-38e29237-ad0c-4f69-aadb-5b465a310580.mp4
 
 
+
+
+
+//Magento Zip
+
+https://user-images.githubusercontent.com/108929368/200526290-abb2020f-d007-403a-b99d-06e11e227b94.mp4
 
 
 
